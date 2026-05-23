@@ -1,0 +1,14 @@
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/bin/Release/net6.0/Builder
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/bin/Release/net6.0/Builder.deps.json
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/bin/Release/net6.0/Builder.runtimeconfig.json
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/bin/Release/net6.0/Builder.dll
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/bin/Release/net6.0/Builder.pdb
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.AssemblyInfoInputs.cache
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.AssemblyInfo.cs
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.csproj.CoreCompileInputs.cache
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.dll
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/refint/Builder.dll
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.pdb
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/Builder.genruntimeconfig.cache
+/Users/potter/Desktop/repos/own/crypt-csharp/Builder/obj/Release/net6.0/ref/Builder.dll
